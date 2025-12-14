@@ -2,6 +2,8 @@
 
 This repository contains the code and data for our data mining course project on predicting artwork prices using metadata from an online art marketplace. We explore both tree-based classification models and a neural network regression model.
 
+Dataset can be found here: https://www.kaggle.com/datasets/jijagallery/art-market-dataset-selling-paintings-prediction/data
+
 ---
 
 ## Files
